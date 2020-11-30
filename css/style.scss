@@ -1,0 +1,1132 @@
+.header{
+  //margin: 0 0 19.8px;
+  padding: 10px 0px;
+  height: 50.2px;
+  background-color: #faa61a;
+  .left{
+    display: flex;
+    justify-content: flex-start;
+    img{
+      
+      background-color: transparent;
+    }
+    .Qaynar-xtt-994-12 {
+      margin: 8px 0px 5px 0px;
+      opacity: 0.67;
+      font-family: Gotham;
+      font-size: 15px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.49px;
+      color: #000000;
+    }
+    .Bitmap {
+      margin: 3px 13.1px 5px 0;
+      object-fit: contain;
+      i{
+        margin-top: 5px;
+        font-size: 23px;
+      }
+    }
+  }
+  .right{
+    display: flex;
+    text-align: right;
+    justify-content: flex-end;
+    .AZ {
+      width: 18px;
+      height: 15px;
+      margin: 8px 5px 0px 5px;
+      opacity: 0.82;
+      font-family: Gotham-Bold;
+      font-size: 12px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.39px;
+      color: #000000;
+    }
+    .EN {
+      width: 17px;
+      height: 15px;
+      margin: 8px 5px 0px 5px;
+      opacity: 0.82;
+      font-family: Gotham-Bold;
+      font-size: 12px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.39px;
+      color: #000000;
+    }
+    .RU {
+      width: 17px;
+      height: 15px;
+      margin: 8px 35px 0px 5px;
+      opacity: 0.82;
+      font-family: Gotham-Bold;
+      font-size: 12px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -0.39px;
+      color: #000000;
+      position: relative;
+      &::before{
+        position: absolute;
+        content: '';
+        bottom: -10px;
+        width: 1px;
+        margin: 0 42.5px 0 45.8px;
+        height: 37px;
+        background-color: #000000;
+        color: #000000;
+      }
+    }
+    .Group-2 {
+      width: 132px;
+      height: 18px;
+      margin: 1px 0 0px 15px;
+      object-fit: contain;
+      opacity: 1;
+      img{
+      color: #000000;
+      }
+    }
+  }
+
+}
+body{
+  overflow-x: hidden;
+  background-color: white !important;
+}
+.slick-active .image-text{
+  animation-name: example;
+  animation-duration: 2s;
+}
+
+.header3{
+  position: relative;
+  overflow: hidden;
+.wave {
+  position: absolute;
+  bottom: 0;
+  z-index: 11;
+  overflow: hidden;
+  width: 100%;
+  svg {
+    width: 102%;
+    height: auto;
+    margin-left: -1%;
+    fill: #fff;
+  }
+  
+}
+
+
+}
+  .header2{
+    z-index: 999;
+    position: absolute;
+    .left{
+      z-index: 999;
+      display: flex;
+      margin-left: -10px;
+      .Group-12 {
+        width: 146px;
+        height: 138px;
+        padding: 0px 50px 0px 0px;
+        object-fit: contain;
+        position: relative;
+        &::after{
+          position: absolute;
+          content: '';
+          height: 106px;
+          width: 5px;
+          right: -20px;
+          bottom: 0px;
+          width: 1px;
+          opacity: 0.38;
+          background-color: var(--white);
+          color: var(--white);
+
+        }
+      }
+      .Bitmap1 {
+        width: 84.5px;
+        height: 48px;
+        margin-left: 40px;
+        margin-top: 60px;
+        object-fit: contain;
+        opacity: 1;
+        //background-color: var(--white);
+      }
+    }
+    .right{
+      margin-top: 70px;
+      justify-content: flex-end;
+      right: -35%;
+      .dropdown{
+        display: inline-block;
+        position: relative;
+        .dropbtn{
+          a{
+            text-decoration: none;
+          }
+        .Haqqmzda {
+          margin: 95.3px 40px 78px 0px;
+          font-family: Gotham-Bold;
+          font-size: 17px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: normal;
+          color: var(--white);
+        }
+        .Virtual-tur {
+          margin: 95.3px 40px 78px 0px;
+          font-family: Gotham-Bold;
+          font-size: 17px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: normal;
+          color: var(--white);
+        }
+        .Mhsullar {
+          margin: 95.3px 0px 78px 0px;
+          font-family: Gotham-Bold;
+          font-size: 17px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: normal;
+          color: var(--white);
+        }
+        .laq {
+          margin: 95.3px 0px 78px 30px;
+          font-family: Gotham-Bold;
+          font-size: 17px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: normal;
+          color: var(--white);
+        }
+    }
+}
+
+
+    }
+  
+  }
+  .sliderall{
+    justify-content: center;
+    .slick-next{
+      right: 28px;
+      z-index: 15;
+      top: 400px;
+      &::before{
+          padding: 15px;
+          background-color: rgba(0,0,0,0.30);
+          font-size: 25px;
+          font-weight: 700;
+          font-family: "Font Awesome 5 Free";
+          border: 1px solid rgba(0,0,0,0.30);
+          transition: 0.5s;
+          content: "\f054";
+      }
+      &:hover{
+          &::before{
+              color: #faa61a;
+          }
+      }
+  }
+  .slick-prev{
+      z-index: 15;
+      left: 0px;
+      top: 400px;
+      &::before{
+          padding: 15px;
+          font-weight: 700;
+          background-color: rgba(0,0,0,0.30);
+          font-size: 25px;
+          font-family: "Font Awesome 5 Free";
+          border: 1px solid rgba(0,0,0,0.30);
+          transition: 0.5s;
+          content: "\f053";
+      }
+      &:hover{
+          &::before{
+              color: #faa61a;
+          }
+
+      }
+  }
+    .image{
+        position: relative;
+        width: 100%;
+        height: 873px;
+        .overlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          z-index: 9;
+          overflow: hidden;
+          width: 100%;
+          height: 100%;
+          opacity: 0.4;
+          -webkit-filter: blur(10px);
+          filter: blur(10px);
+          background-blend-mode: multiply;
+          background-image: linear-gradient(to bottom, #8a2b00 10%, #ca9614 93%);
+        }
+          
+        img{
+          width: 100%;
+          height: 100%;
+        }
+        .header2{
+          position: absolute;
+          top: 0px;
+          left: 170px;
+          .left{
+            display: flex;
+            margin-top: 20px;
+            justify-content: flex-start;
+            .Group-12 {
+              width: 146px;
+              height: 138px;
+              padding: 0px 50px 0px 0px;
+              object-fit: contain;
+              position: relative;
+              &::after{
+                position: absolute;
+                content: '';
+                height: 106px;
+                width: 5px;
+                right: -20px;
+                bottom: 0px;
+                width: 1px;
+                opacity: 0.38;
+                background-color: var(--white);
+                color: var(--white);
+      
+              }
+            }
+            .Bitmap1 {
+              width: 84.5px;
+              height: 48px;
+              margin-left: 40px;
+              margin-top: 60px;
+              object-fit: contain;
+              opacity: 0.75;
+              //background-color: var(--white);
+            }
+          }
+          .right{
+            display: flex;
+            justify-content: flex-end;
+            .Haqqmzda {
+              margin: 95.3px 40px 78px 255.6px;
+              font-family: Gotham;
+              font-size: 17px;
+              font-weight: bold;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: normal;
+              letter-spacing: normal;
+              color: var(--white);
+            }
+              .Virtual-tur {
+                margin: 95.3px 40px 78px 48px;
+                font-family: Gotham;
+                font-size: 17px;
+                font-weight: bold;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: var(--white);
+              }
+              .Mhsullar {
+                margin: 95.3px 45px 78px 45.8px;
+                font-family: Gotham;
+                font-size: 17px;
+                font-weight: bold;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: var(--white);
+              }
+              .laq {
+                margin: 95.3px 0px 78px 0px;
+                font-family: Gotham;
+                font-size: 17px;
+                font-weight: bold;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: var(--white);
+              }
+          }
+        
+        }
+    .image-text{
+        z-index: 13;
+        position: absolute;
+        top: 20%;
+        left:18%;
+        .n-son-texnologiyala {
+        margin: 110px 255.6px 19.8px 0px;
+        font-family: Gotham-Medium;
+        font-size: 30px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: 2px;
+        color: var(--white);
+      }
+      .Biz-biirdiyimiz-r {
+        margin: 19.8px 48px 39px 0px;
+        font-family: Gotham-Ultra;
+        font-size: 67px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 0.93;
+        letter-spacing: normal;
+        color: var(--white);
+      }
+      .Masir-texnologiyada {
+        margin: 39px 53px 25.8px 0px;
+        font-family: Gotham-Light;
+        font-size: 16px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.69;
+        letter-spacing: 1.5px;
+        opacity: 0.9;
+        color: var(--white);
+      }
+      .TRAFLI {
+        width: 60px;
+        height: 15px;
+        margin: 25.8px 9.6px 0 0px;
+        font-family: Gotham-Bold;
+        font-size: 13px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #faa61a;
+        position: relative;
+        .ox{
+          position: absolute;
+          color: #faa61a;
+          top:-3px;
+          left: 45px;
+          font-size: 20px;
+        }
+      }
+
+        }
+    }    
+  }
+
+
+.slide-text{
+  background-color: white;
+  justify-content: center;
+  padding-bottom: 150px;
+  text-align: center;
+  .n-geni-mhsul-ei {
+    //margin: 0 205px 28px 87px;
+    font-family: Gotham-Medium;
+    font-size: 25px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.08;
+    letter-spacing: normal;
+    color: #faa61a;
+  }
+  .Satda-olan-rk-v {
+    //margin: 28px 5px 142px 6px;
+    font-family: Gotham-Ultra;
+    font-size: 41px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.12;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+  }
+}
+.slider{
+  background-color: white;
+  .main {
+    background-color: white;
+    font-family:Arial;
+    justify-content: space-around;
+    width:1100px;
+    display:block;
+    margin:auto;
+    padding-bottom: 70px;
+    position: relative;
+    .Combined-Shape-Copy-2 {
+      width: 19px;
+      height: 23px;
+      //margin: 10px 0px 0 0px;
+      background-color: #faa61a;
+    }
+    .ceki{
+      font-size: 15px;
+      color: #faa61a;
+      padding-right: 8px;
+    }
+    .-kg {
+      width: 46px;
+      height: 19px;
+      margin: 13px 0px 1px 0px;
+      font-family: Gotham-Light;
+      font-size: 15px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.27;
+      letter-spacing: 0px;
+      color: #777777;
+      
+    }
+    .image{
+      width: 149px;
+      margin-left: 10px;
+      margin-bottom: 40px;
+      height: 219px;
+      img{
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .slick-next{
+      right: -20px;
+      &::before{
+          padding: 10px;
+          font-size: 32px;
+          font-weight: bold;
+          color: #faa61a;
+          transition: 0.5s;
+      }
+    }
+    .slick-prev{
+      z-index: 999;
+      position: absolute;
+      left: -80px;
+      &::before{
+          padding: 10px;
+          font-size: 32px;
+          font-weight: bold;
+          color: #faa61a;
+          transition: 0.5s;
+  
+      }
+  }
+  .Kpkli-baton-75 {
+    width: 211px;
+    height: 20px;
+    //margin: 24px 86px 14px 47px;
+    font-family: MarkPro-Black;
+    font-size: 23px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.87;
+    letter-spacing: normal;
+    color: #faa61a;
+  }
+  .la-nv-buda-ununda {
+    width: 178px;
+    height: 19px;
+    //margin: 13px 119px 10px 47px;
+    font-family: Gotham-Light;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: 0px;
+    color: #777777;
+  }
+  }
+}
+
+.corek2{
+  position: relative;
+  padding: 80px;
+  overflow: hidden;
+  justify-content: center;
+  .hero-wrapper {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: auto;
+    width: auto;
+    min-height: 100%;
+    min-width: 100%;
+    z-index: -9999;
+    figure{
+      margin: 0;
+      position: relative;
+      video{
+          width: 100%;
+          height: 100%;
+          max-width: 100%;
+      }
+    }
+  }
+  .overlay{
+    position: absolute;
+    opacity: 0.4;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-blend-mode: hard-light;
+    background-image: linear-gradient(to bottom, #000000, #000000);
+  }
+  .vdo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translateX(-50%) translateY(-50%);
+  }
+  .text2{
+    z-index: 10;
+    .n-son-texnologiyala {
+      //margin: 110px 255.6px 19.8px 339.4px;
+      font-family: Gotham-Medium;
+      font-size: 30px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1;
+      letter-spacing: 2px;
+      color: var(--white);
+    }
+    .Biz-biirdiyimiz-r {
+      width: 777px;
+      height: 129px;
+      //margin: 19.8px 48px 39px 339.4px;
+      font-family: Gotham-Ultra;
+      font-size: 67px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 0.93;
+      letter-spacing: normal;
+      color: var(--white);
+    }
+    .Masir-texnologiyada {
+      width: 772px;
+      height: 54px;
+      //margin: 39px 53px 25.8px 339.4px;
+      font-family: Gotham;
+      font-size: 16px;
+      font-weight: 300;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.69;
+      letter-spacing: 1.5px;
+      opacity: 0.5;
+      color: var(--white);
+    }
+    .TRAFLI {
+      width: 60px;
+      height: 15px;
+      //margin: 25.8px 9.6px 0 339.4px;
+      font-family: Gotham-Bold;
+      font-size: 13px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      color: #faa61a;
+      margin-right: 10px;
+      position: relative;
+      .ox{
+        position: absolute;
+        color: #faa61a;
+        top:-3px;
+        left: 40px;
+        font-size: 20px;
+      }
+    }
+
+  }
+
+  
+}
+
+.slide-text2{
+  background-color: white;
+  justify-content: center;
+  padding: 80px;
+  text-align: center;
+  .Hr-yerd-1-ol {
+    width: 250px;
+    height: 27px;
+    margin-left: 425px;
+    //margin: 0 128px 28px 75px;
+    font-family: Gotham-Medium;
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.08;
+    letter-spacing: normal;
+    color: #faa61a;
+  }
+  .Mhsullarmz-keyfiy{
+    //margin: 28px 5px 142px 6px;
+    font-family: Gotham-Ultra;
+    font-size: 41px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.12;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+  }
+}
+
+.products{
+  background-color: white;
+  .photo{
+    img{
+      width: 100%;
+      height: 100%;
+
+    }
+    &:hover{
+      overflow: hidden;
+      img{
+        transform: scale(1.2);
+        transition: 1.5s;
+      }
+    }
+  }
+  .l-dymdn-istehsal {
+    width: 463px;
+    height: 20px;
+    margin: 49px 75px 27px 1px;
+    font-family: MarkPro-Black;
+    font-size: 27px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.74;
+    letter-spacing: normal;
+    color: #2d2d2d;
+  }
+  .Salam-inqrediyentl {
+    width: 283px;
+    height: 20px;
+    margin: 49px 151px 27px 0px;
+    font-family: MarkPro-Black;
+    font-size: 27px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.74;
+    letter-spacing: normal;
+    color: #2d2d2d;
+  }
+  .Uaqlarn-sevimlisi {
+    width: 238px;
+    height: 20px;
+    margin: 49px 179px 27px 0px;
+    font-family: MarkPro-Black;
+    font-size: 27px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.74;
+    letter-spacing: normal;
+    color: #2d2d2d;
+  }
+  .Masir-texnologiyada-Copy {
+    width: 372px;
+    height: 57px;
+    margin: 27px 61px 0 0px;
+    font-family: MarkPro;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    color: #999999;
+  }
+  .TRAFLI {
+    width: 60px;
+    height: 15px;
+    top: 20px;
+    //margin: 22px 10.2px 208.6px 320.7px;
+    font-family: Gotham-Bold;
+    font-size: 13px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #faa61a;
+    position: relative;
+    .ox{
+      position: absolute;
+      color: #faa61a;
+      top:-3px;
+      left: 40px;
+      font-size: 20px;
+    }
+  }
+
+}
+
+.slide-text3{
+  background-color: white;
+  justify-content: center;
+  padding-top: 15px;
+  padding: 120px;
+  text-align: center;
+  .Bizim-stnlklrimi {
+    width: 275px;
+    height: 27px;
+    margin-left: 460px;
+    font-family: Gotham-Bold;
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.08;
+    letter-spacing: normal;
+    color: #faa61a;
+  }
+  .-rk-zavodu-sah {
+    width: 541px;
+    height: 97px;
+    margin-left: 320px;
+    font-family: Gotham-Ultra;
+    font-size: 41px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.12;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+  }
+}
+
+
+.plus{
+  background-color: white;
+  .number{
+    position: relative;
+    &::before{
+      position: absolute;
+      background-color: #faa61a;
+      content: '';
+      bottom: 0;
+      left: 0;
+      color: #faa61a;
+      width: 0px;
+      height: 2px;
+    }
+    &:hover{
+      transition: 2s;
+      cursor: pointer;
+      &::before{
+      transition: 2s;
+        width: 200px;
+      }
+    }
+    .k {
+      //margin: 168px 131px 0 0;
+      font-family: MarkPro;
+      font-size: 70px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: -2.4px;
+      color: #2d2d2d;
+    }
+    }
+
+    .rk-gn-rzind-bi {
+      margin-top: 8px;
+      //margin: 262px 205px 70px 0;
+      font-family: MarkPro-Book;
+      font-size: 17px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1;
+      letter-spacing: -0.55px;
+      color: #2d2d2d;
+      span{
+        font-family: MarkPro-Black;
+        line-height: 11px;
+        letter-spacing: -0.55px;
+      }
+  }
+
+  
+}
+
+.plus2{
+  background-color: white;
+  padding-top: 50px;
+  .Peakar-mtxssisl {
+    width: 153px;
+    height: 45px;
+    margin: 13px 196px 28px 0;
+    font-family: MarkPro-Black;
+    font-size: 23px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.87;
+    letter-spacing: normal;
+    color: #2d2d2d;
+  }
+  .Masir-texnologiyada {
+    width: 232px;
+    height: 57px;
+    margin: 28px 117px 0 0;
+    font-family: MarkPro-Light;
+    font-size: 15px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: 0px;
+    color: #5e5e5e;
+  }
+  img{
+    &:hover{
+      cursor: pointer;
+    }
+  }
+}
+
+
+.slide-text4{
+  background-color: white;
+  justify-content: center;
+  padding: 120px 0px 100px 0px;
+  text-align: center;
+  .Bizim-stnlklrimi {
+    width: 269px;
+    height: 27px;
+    margin-left: 450px;
+    font-family: Gotham-Medium;
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.08;
+    letter-spacing: normal;
+    color: #faa61a;
+  }
+  .-rk-zavodu-sah {
+    width: 541px;
+    height: 97px;
+    margin-left: 320px;
+    font-family: Gotham-Ultra;
+    font-size: 41px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.12;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+  }
+}
+
+
+
+
+.brends{
+  background-color: #fbfbfb;
+  padding: 40px 0px 50px 0px;
+  .qutu{
+    margin-bottom: 40px;
+    width: 10%;
+    margin-right: 90px;
+    img{
+      margin-top: 60px;
+    }
+  }
+}
+
+.yellow{
+  padding: 10px 0px;
+  height: 50.2px;
+  background-color: #faa61a;
+}
+
+.footer{
+  background-color: white;
+  .box1{
+    img{
+      margin-top: 50px;
+      width: 110px;
+      height: 110px;
+    }
+  }
+    .box2{
+      .col-lg-3{
+        padding: 0px;
+      }
+      .Haqqmzda {
+        text-align: left;
+        margin: 60px 0px 25px 0px;
+        font-family: MarkPro-Black;
+        font-size: 20px;
+        font-weight: 900;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: normal;
+        color: #2d2d2d;
+      }
+      .irkt-haqqnda-Rhb {
+        //margin: 25px 46.2px 118.5px 200px;
+        font-family: Gotham-Light;
+        font-size: 15px;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.58px;
+        color: #7c7c7c;
+      }
+  }
+
+}
+
+.xett{
+  padding:20px 0px;
+  background-color: white;
+  hr{
+    opacity: 0.5;
+    background-color: #888888;
+    border: solid 0.5 px #888888;
+  }
+}
+
+
+
+.footer2{
+  background-color: white;
+  padding: 20px;
+  .zavod{
+    font-family: Gotham;
+    font-size: 15px;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.58px;
+    color: #7c7c7c;
+  }
+}
+
+
+@font-face{
+  src: url(../Fonts/Gotham-Ultra.otf);
+  font-family:Gotham-Ultra;
+}
+
+@keyframes example {
+  0%   {top:40%;left:18%}
+  100% {left:35%;left:18%;}
+}
+@font-face{
+  src: url(../Fonts/Gotham-Black.otf);
+  font-family:Gotham-Black;
+}
+@font-face{
+  src: url(../Fonts/Gotham-Bold.otf);
+  font-family:Gotham-Bold;
+}
+@font-face{
+  src: url(../Fonts/Gotham-Book.otf);
+  font-family:Gotham-Book;
+}
+@font-face{
+  src: url(../Fonts/Gotham-Light.otf);
+  font-family:Gotham-Light;
+}
+@font-face{
+  src: url(../Fonts/Gotham-Medium.otf);
+  font-family:Gotham-Medium;
+}
+@font-face{
+  src: url(../Fonts/Gotham-Thin.otf);
+  font-family:Gotham-Thin;
+}
+
+@font-face{
+  src: url(../Fonts/Gotham-XLight.otf);
+  font-family:Gotham-Xlight;
+}
+
+@font-face{
+  src: url(../Fonts/MarkPro-Black.otf);
+  font-family:MarkPro-Black;
+}
+@font-face{
+  src: url(../Fonts/MarkPro-Book.otf);
+  font-family:MarkPro-Book;
+}
+@font-face{
+  src: url(../Fonts/MarkPro-Light.otf);
+  font-family:MarkPro-Light;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #faa61a;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  i{
+    color: white;
+  }
+}
